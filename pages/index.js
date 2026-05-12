@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
           alt="Ảnh đại diện"
           style={{ boxShadow: '0 0 20px rgba(56, 189, 248, 0.4)' }}
         />
-        <h1 className={utilStyles.heading2XL} style={{ background: 'linear-gradient(to right, #38bdf8, #818cf8)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Tên Của Bạn</h1>
+        <h1 className={utilStyles.heading2XL} style={{ background: 'linear-gradient(to right, #38bdf8, #818cf8)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Pham Ngoc Kha</h1>
       </div>
 
       <section className={utilStyles.headingLg}>
